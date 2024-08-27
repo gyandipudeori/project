@@ -66,8 +66,3 @@ For more information or inquiries:
 -GitHub: https://github.com/dashboard
 
   Thankyou
-
-
-
-
-
