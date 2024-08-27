@@ -59,11 +59,11 @@ The AlumniDonationDAO aims to create a decentralized platform for alumni to cont
 
 For more information or inquiries:
 
--Email: your.email@example.com
+-Email: gyandipu1254@gmail.com
 
--LinkedIn: Your LinkedIn Profile
+-LinkedIn: Gyandipu Deori
 
--GitHub: Your GitHub Profile
+-GitHub: https://github.com/dashboard
 
   Thankyou
 
