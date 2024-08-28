@@ -1,5 +1,5 @@
 AlumniDonationDAO
-
+"C:\Users\ASUS\Desktop\Screenshot 2024-08-27 173206.png"
 Vision
 
 The AlumniDonationDAO aims to create a decentralized platform for alumni to contribute to their alma mater or charitable causes associated with it. By leveraging blockchain technology, the platform ensures transparency, security, and democratic decision-making in the management and allocation of funds donated by alumni.
